@@ -40,6 +40,11 @@ Gauge Targets & Conditional KPIs
 
 Interactive Filters (Brand, Fuel Type, Transmission)
 
+🌐 Author
+
+Kamalesh
+📍 Aspiring Data Scientist | Power BI Enthusiast
+ Linkedin id : www.linkedin.com/in/kamalesh-v-a1504a33a
 
 
 
@@ -48,6 +53,4 @@ Interactive Filters (Brand, Fuel Type, Transmission)
 
 
 
-EV adoption shows growth potential in the Indian market.
 
-Petrol remains the most common fuel type.
